@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+id/techarea/flutter_app/BuildConfig.java
+ id.techarea.flutter_app.BuildConfig
